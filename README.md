@@ -1,7 +1,7 @@
 # Luiz Gonzaga Bot
 Portuguese Text Generation with Artificial Neural Networks
 
-<img src = "./luizgonzaga.jpg">
+<img src = "./luizgonzaga.jpg" width=300 height=300>
 
 ## Introduction
 What would happen if a robot learned from the great Machado de Assis and started to write short stories? I said learn, not plagiarize or copy random excerpts!
