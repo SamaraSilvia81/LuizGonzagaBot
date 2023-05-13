@@ -1,4 +1,4 @@
-# Machado de Assis Bot
+# Luiz Gonzaga Bot
 Portuguese Text Generation with Artificial Neural Networks
 
 <img src = "MachadoAssisBot.png">
